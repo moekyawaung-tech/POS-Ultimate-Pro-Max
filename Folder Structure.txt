@@ -1,0 +1,24 @@
+pos-php-mysql/
+├── config/
+│   └── db.php
+├── partials/
+│   ├── header.php
+│   └── footer.php
+├── auth/
+│   ├── login.php
+│   ├── logout.php
+│   └── check_auth.php
+├── products/
+│   ├── index.php
+│   ├── add.php
+│   ├── edit.php
+│   └── delete.php
+├── sales/
+│   ├── checkout.php
+│   └── receipt.php
+├── assets/
+│   └── style.css
+├── index.php
+├── database.sql
+└── README.md
+```
