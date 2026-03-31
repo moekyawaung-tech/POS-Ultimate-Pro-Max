@@ -20,3 +20,24 @@ This is a starter POS system for mini markets and shops using PHP and MySQL. It 
 - Username: `admin`
 - Password: `12
 34`
+
+## Setup
+1. XAMPP / Laragon install လုပ်ပါ
+2. project folder ကို `htdocs` ထဲထည့်ပါ
+3. phpMyAdmin မှာ `database.sql` import လုပ်ပါ
+4. Browser မှာ `http://localhost/pos-php-mysql/auth/login.php` ဖွင့်ပါ
+
+## Files
+- `config/db.php`
+- `auth/login.php`
+- `auth/logout.php`
+- `auth/check_auth.php`
+- `products/*`
+- `sales/*`
+- `assets/style.css`
+- `database.sql`
+
+## Author
+Moe Kyaw Aung
+
+```
